@@ -1,0 +1,4 @@
+        string tenantId = "72f988bf-86f1-41af-91ab-2d7cd011db47";
+        string clientId = "fe15f002-cab5-4fb7-a96d-da853ddbf0e6";
+        string secret = "H2p8AA0XpqT75b47IPeE5A2CVzEZgohVxBiewKpIIs4=";
+        string subscriptionId = "517c8bec-957f-4a8c-9bd2-610455a20f2a";
